@@ -412,6 +412,21 @@ def main():
     for it in sorted(index, key=lambda x: x["date"], reverse=True):
         t = it["title"].replace("|", "\\|")
         lines.append("| %s | [%s](%s) | [链接](%s) |" % (it["date"], t, it["path"], it["link"]))
+    lines += [
+        "",
+        "## 仓库文件说明",
+        "",
+        "| 文件 | 用途 |",
+        "|---|---|",
+        "| `articles/` | 文章 Markdown 正文，每篇 frontmatter 含 canonical 指向主站原文 |",
+        "| `data/posts.json` | 结构化索引，供程序化读取 |",
+        "| `llms.txt` | AI/LLM 引用说明，告诉搜索引擎与 AI 引擎如何引用本站内容 |",
+        "| `wp-export.py` | 导出脚本，从 WordPress REST API 拉取文章生成 Markdown，每日自动运行 |",
+        "| `.github/workflows/sync.yml` | GitHub Actions 配置，每天自动同步主站新文章 |",
+        "| `LICENSE` | CC0 1.0，内容可自由引用 |",
+        "",
+        "> 本仓库为内容分发副本，原文以主站为准。",
+    ]
     with open(os.path.join(out, "README.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
 
