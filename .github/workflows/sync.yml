@@ -6,7 +6,7 @@ name: Sync from WordPress
 on:
   schedule:
     # UTC 02:00 = 北京时间 10:00，每天自动同步
-    - cron: '0 2 * * *'
+    - cron: '0 15 * * *'
   workflow_dispatch:   # 允许在 Actions 页面手动点触发
 
 permissions:
