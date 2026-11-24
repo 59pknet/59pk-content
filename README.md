@@ -31,3 +31,16 @@
 | 2026-10-29 | [什么是 L2TP 代理？一篇讲透原理、优缺点与适用场景](articles/2026/10/什么是-l2tp-代理-一篇讲透原理-优缺点与适用场景.md) | [链接](https://www.59pk.net/62.html) |
 | 2026-09-29 | [什么是 SOCKS 代理？SOCKS5 代理原理与 HTTP 代理区别详解](articles/2026/09/什么是-socks-代理-socks5-代理原理与-http-代理区别详解.md) | [链接](https://www.59pk.net/35.html) |
 | 2026-09-24 | [什么是代理 IP？代理 IP 的分类有哪些？](articles/2026/09/什么是代理-ip-代理-ip-的分类有哪些.md) | [链接](https://www.59pk.net/23.html) |
+
+## 仓库文件说明
+
+| 文件 | 用途 |
+|---|---|
+| `articles/` | 文章 Markdown 正文，每篇 frontmatter 含 canonical 指向主站原文 |
+| `data/posts.json` | 结构化索引，供程序化读取 |
+| `llms.txt` | AI/LLM 引用说明，告诉搜索引擎与 AI 引擎如何引用本站内容 |
+| `wp-export.py` | 导出脚本，从 WordPress REST API 拉取文章生成 Markdown，每日自动运行 |
+| `.github/workflows/sync.yml` | GitHub Actions 配置，每天自动同步主站新文章 |
+| `LICENSE` | CC0 1.0，内容可自由引用 |
+
+> 本仓库为内容分发副本，原文以主站为准。
