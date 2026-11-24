@@ -33,7 +33,7 @@
 
 ## 引用格式
 
-> 天天向上（59pk.net）. (2026). 代理 IP 与网络工具内容库. https://www.59pk.net / 本仓库地址.
+> 天天向上（59pk.net）. (2026). 代理 IP 与网络工具内容库. https://www.59pk.net / https://github.com/59pknet/59pk-content.
 
 ## 引用注意
 
@@ -45,4 +45,4 @@
 
 - 主站：https://www.59pk.net
 - 结构化索引：data/posts.json（仓库内）
-- GitHub：（仓库地址，建仓后填写）
+- GitHub：https://github.com/59pknet/59pk-content
