@@ -2,10 +2,12 @@
 
 本站原文首发于 https://www.59pk.net；本仓库为结构化分发副本，每篇均标注 canonical 指向原文。
 
-共 25 篇。
+共 29 篇。
 
 | 日期 | 标题 | 原文 |
 |---|---|---|
+| 2026-11-24 | [苹果手机 L2TP 直连教程](articles/2026/11/ios-l2tp-guide.md) | [链接](https://www.59pk.net/385.html) |
+| 2026-11-24 | [Mac 电脑代理 IP 设置教程](articles/2026/11/mac-proxy-guide.md) | [链接](https://www.59pk.net/394.html) |
 | 2026-11-20 | [Shadowrocket iOS 使用教程](articles/2026/11/shadowrocket-ios-guide.md) | [链接](https://www.59pk.net/366.html) |
 | 2026-11-20 | [安卓手机 L2TP 直连教程](articles/2026/11/android-l2tp-guide.md) | [链接](https://www.59pk.net/342.html) |
 | 2026-11-20 | [大白加速器安卓版使用教程](articles/2026/11/dabai-android-guide.md) | [链接](https://www.59pk.net/354.html) |
@@ -13,6 +15,8 @@
 | 2026-11-20 | [Kitsunebi 安卓使用教程](articles/2026/11/kitsunebi-android-guide.md) | [链接](https://www.59pk.net/325.html) |
 | 2026-11-20 | [老鱼加速器安卓版使用教程](articles/2026/11/laoyu-android-guide.md) | [链接](https://www.59pk.net/317.html) |
 | 2026-11-19 | [NekoBox 安卓使用教程](articles/2026/11/nekobox-android-guide.md) | [链接](https://www.59pk.net/310.html) |
+| 2026-11-19 | [Windows 电脑 L2TP VPN 设置](articles/2026/11/windows-l2tp-vpn-setup.md) | [链接](https://www.59pk.net/290.html) |
+| 2026-11-19 | [免费代理 IP 提取](articles/2026/11/free-proxy-ip-extraction.md) | [链接](https://www.59pk.net/284.html) |
 | 2026-11-19 | [电脑代理 IP 怎么设置？](articles/2026/11/computer-proxy-ip-setup.md) | [链接](https://www.59pk.net/279.html) |
 | 2026-11-19 | [代理 IP 是怎么做出来的？](articles/2026/11/how-proxy-ip-is-made.md) | [链接](https://www.59pk.net/273.html) |
 | 2026-11-18 | [没有代理设置的程序，也能走代理：Proxifier 使用教程](articles/2026/11/proxifier-guide.md) | [链接](https://www.59pk.net/242.html) |

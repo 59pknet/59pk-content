@@ -1,7 +1,35 @@
 {
   "source": "https://www.59pk.net",
-  "count": 25,
+  "count": 29,
   "posts": [
+    {
+      "path": "articles/2026/11/ios-l2tp-guide.md",
+      "title": "苹果手机 L2TP 直连教程",
+      "date": "2026-11-24",
+      "link": "https://www.59pk.net/385.html",
+      "tags": [
+        "iOS",
+        "L2TP",
+        "手机改IP",
+        "苹果",
+        "新手教程"
+      ],
+      "slug": "ios-l2tp-guide"
+    },
+    {
+      "path": "articles/2026/11/mac-proxy-guide.md",
+      "title": "Mac 电脑代理 IP 设置教程",
+      "date": "2026-11-24",
+      "link": "https://www.59pk.net/394.html",
+      "tags": [
+        "Mac",
+        "SOCKS5",
+        "代理IP",
+        "苹果",
+        "新手教程"
+      ],
+      "slug": "mac-proxy-guide"
+    },
     {
       "path": "articles/2026/11/shadowrocket-ios-guide.md",
       "title": "Shadowrocket iOS 使用教程",
@@ -99,6 +127,34 @@
         "新手教程"
       ],
       "slug": "nekobox-android-guide"
+    },
+    {
+      "path": "articles/2026/11/windows-l2tp-vpn-setup.md",
+      "title": "Windows 电脑 L2TP VPN 设置",
+      "date": "2026-11-19",
+      "link": "https://www.59pk.net/290.html",
+      "tags": [
+        "IPsec",
+        "L2TP",
+        "VPN",
+        "Windows",
+        "新手教程"
+      ],
+      "slug": "windows-l2tp-vpn-setup"
+    },
+    {
+      "path": "articles/2026/11/free-proxy-ip-extraction.md",
+      "title": "免费代理 IP 提取",
+      "date": "2026-11-19",
+      "link": "https://www.59pk.net/284.html",
+      "tags": [
+        "Python",
+        "代理IP",
+        "免费代理",
+        "爬虫",
+        "新手教程"
+      ],
+      "slug": "free-proxy-ip-extraction"
     },
     {
       "path": "articles/2026/11/computer-proxy-ip-setup.md",
