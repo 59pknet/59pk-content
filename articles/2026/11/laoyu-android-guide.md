@@ -20,7 +20,7 @@ canonical: https://www.59pk.net/317.html
 
 ## 二、官网下载 APK，安装时开一次未知来源权限
 
-到[老鱼官网](https://www.59pk.net/?golink=aHR0cHM6Ly9sYW95dXguY29tLw%3D%3D&nonce=84b9732aaba20fc021dae517acc20f0c7e4897e84068ad673b2354ddd41bd13b|1795539520)下载安卓安装包，下到手机上打开。安卓默认不允许安装应用商店之外的包，安装时会提示你去开”安装未知应用”的权限。建议给浏览器或者文件管理器开一次，装完可以再关掉。
+到[老鱼官网](https://www.59pk.net/?golink=aHR0cHM6Ly9sYW95dXguY29tLw%3D%3D&nonce=6fb3436defdda768e87ee68f20589d9151bde362ff1275cb76998d9cb8a0acd8|1795625859)下载安卓安装包，下到手机上打开。安卓默认不允许安装应用商店之外的包，安装时会提示你去开”安装未知应用”的权限。建议给浏览器或者文件管理器开一次，装完可以再关掉。
 
 ## 三、把四段线路信息填进表单
 

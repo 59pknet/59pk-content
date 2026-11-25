@@ -1,6 +1,6 @@
 {
   "source": "https://www.59pk.net",
-  "count": 29,
+  "count": 31,
   "posts": [
     {
       "path": "articles/2026/11/ios-l2tp-guide.md",
@@ -129,6 +129,20 @@
       "slug": "nekobox-android-guide"
     },
     {
+      "path": "articles/2026/11/bitbrowser-guide.md",
+      "title": "比特浏览器代理 IP 设置教程",
+      "date": "2026-11-19",
+      "link": "https://www.59pk.net/401.html",
+      "tags": [
+        "SOCKS5",
+        "代理IP",
+        "指纹浏览器",
+        "比特浏览器",
+        "新手教程"
+      ],
+      "slug": "bitbrowser-guide"
+    },
+    {
       "path": "articles/2026/11/windows-l2tp-vpn-setup.md",
       "title": "Windows 电脑 L2TP VPN 设置",
       "date": "2026-11-19",
@@ -183,6 +197,20 @@
         "新手教程"
       ],
       "slug": "how-proxy-ip-is-made"
+    },
+    {
+      "path": "articles/2026/11/game-brick-ip-pricing.md",
+      "title": "游戏搬砖 IP 多少钱？",
+      "date": "2026-11-19",
+      "link": "https://www.59pk.net/268.html",
+      "tags": [
+        "SOCKS5",
+        "代理IP",
+        "游戏搬砖",
+        "静态住宅IP",
+        "新手教程"
+      ],
+      "slug": "game-brick-ip-pricing"
     },
     {
       "path": "articles/2026/11/proxifier-guide.md",
