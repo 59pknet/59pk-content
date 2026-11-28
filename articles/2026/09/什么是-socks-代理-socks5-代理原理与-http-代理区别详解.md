@@ -120,7 +120,7 @@ SOCKS 代理本身只是网络中转技术，**使用行为必须遵守《网络
 
 [什么是 L2TP 代理？一篇讲透原理、优缺点与适用场景](https://www.59pk.net/62.html)
 
-[![代理IP评测的头像-天天向上](https://www.59pk.net/wp-content/themes/zibll/img/avatar-default.png)](https://www.59pk.net/author/1)10天前
+[![代理IP评测的头像-天天向上](https://www.59pk.net/wp-content/themes/zibll/img/avatar-default.png)](https://www.59pk.net/author/1)11天前
 
-[0](https://www.59pk.net/62.html#respond "去评论")708
+[0](https://www.59pk.net/62.html#respond "去评论")738
 
